@@ -59,8 +59,6 @@ Moreover, you can use [developed unit test class](https://github.com/ahmetozlu/s
 This system is available under the MIT license. See the LICENSE file for more info.
 
 <!-- Donation
-E: 0xc9827d58C905CBA31a7D8e2377DE792eBbc385aF
+E: 0x66f5d42921c6c741c28d62b163cc2f6172d2de8e
 T: TXZ86f7JP7kKCW175HybSyJGsgcMMoAnSk
-Please don't use ERC20, only use TRC20.
-In addition, to 0xc9827d58C905CBA31a7D8e2377DE792eBbc385aF, it is not received 50.
 -->
