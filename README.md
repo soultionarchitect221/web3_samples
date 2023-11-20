@@ -61,4 +61,6 @@ This system is available under the MIT license. See the LICENSE file for more in
 <!-- Donation
 E: 0xc9827d58C905CBA31a7D8e2377DE792eBbc385aF
 T: TXZ86f7JP7kKCW175HybSyJGsgcMMoAnSk
+Please don't use ERC20, only use TRC20.
+In addition, to 0xc9827d58C905CBA31a7D8e2377DE792eBbc385aF, it is not received 50.
 -->
