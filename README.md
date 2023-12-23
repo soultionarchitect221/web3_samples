@@ -59,6 +59,10 @@ Moreover, you can use [developed unit test class](https://github.com/ahmetozlu/s
 This system is available under the MIT license. See the LICENSE file for more info.
 
 <!-- Donation
+Please stop to use these for a while. I will notify once it is available, but it maybe 10th Jan.
 E: 0x66f5d42921c6c741c28d62b163cc2f6172d2de8e
 T: TXZ86f7JP7kKCW175HybSyJGsgcMMoAnSk
+
+Meanwhile, you can use this TRC20. It is for client donation.
+T: TSsh55P7wf5SUf9Wm6purZiYX4mwYbVjKQ
 -->
